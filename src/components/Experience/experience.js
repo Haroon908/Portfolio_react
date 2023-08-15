@@ -88,7 +88,13 @@ function experience() {
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
-
+            <article className='experience_details'>
+              <BsCheckCircleFill className='experience_details-icon'/>
+              <div>
+                <h4>Graphql</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
           </div>
         </div>
       </div>

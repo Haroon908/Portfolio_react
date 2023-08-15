@@ -1,30 +1,30 @@
 import React from 'react'
 import Img1 from '../../assets/portfolio1.jpg'
 import Img2 from '../../assets/portfolio2.jpeg'
-import Img3 from '../../assets/portfolio3.png'
+import Img3 from '../../assets/portfolio3.jpg'
 import './Portfolio.css'
 
 const data = [
     {
         id:1,
-        image:Img1,
-        title:'TextUtils',
-        github:'https://github.com/Haroon908/TextUtils',
-        demo:'https://haroon908.github.io/TextUtils/'
-    },
-    {
-        id:2,
         image:Img2,
         title:'MyBlog',
         github:'https://github.com/Haroon908/Django-Blog',
         demo:'https://github.com/Haroon908/Django-Blog'
     },
     {
+        id:2,
+        image:Img1,
+        title:'Autherization_Graphql',
+        github:'https://github.com/Haroon908/Authorization-Graphql-Django',
+        demo:'https://github.com/Haroon908/Authorization-Graphql-Django'
+    },
+    {
         id:3,
         image:Img3,
-        title:'NewsApp',
-        github:'https://github.com/Haroon908/NewsApp',
-        demo:'https://github.com/Haroon908/NewsApp'
+        title:'Youtube-Clone',
+        github:'https://github.com/Haroon908/Youtube_Clone',
+        demo:'/'
     }
 ]
 

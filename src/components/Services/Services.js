@@ -10,29 +10,26 @@ function Services() {
       <div className="container services_container">
         <article className="service">
           <div className="service_head">
-            <h3>UI/UX Design</h3>
+            <h3>Back-End Development</h3>
           </div>
           <ul className='service_list'>
             <li>
                 <AiOutlineCheck className='service_icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Proficient in Django framework.</p>
             </li>
             <li>
                 <AiOutlineCheck className='service_icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Worked in Django REST framework.</p>
             </li>
             <li>
                 <AiOutlineCheck className='service_icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Familiar with version control systems like Git.</p>
             </li>
             <li>
                 <AiOutlineCheck className='service_icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                <p>Familiar with CI/CD pipelines.</p>
             </li>
-            <li>
-                <AiOutlineCheck className='service_icon'/>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
+            
           </ul>
         </article>
 
@@ -40,7 +37,7 @@ function Services() {
 
         <article className="service">
           <div className="service_head">
-            <h3>Web development</h3>
+            <h3>Front-End development</h3>
           </div>
           <ul className='service_list'>
             <li>
@@ -53,15 +50,11 @@ function Services() {
             </li>
             <li>
                 <AiOutlineCheck className='service_icon'/>
-                <p>Language I use for web development is JavaScript.</p>
+                <p>Language I use for front-end development is JavaScript.</p>
             </li>
             <li>
                 <AiOutlineCheck className='service_icon'/>
                 <p>Framework used by me for front-end is REACTjs.</p>
-            </li>
-            <li>
-                <AiOutlineCheck className='service_icon'/>
-                <p>For back-end,I use python with framework Django.</p>
             </li>
           </ul>
         </article>
